@@ -30,7 +30,13 @@ This is a simple landing page
 
 ![Saasy Dark landing page](./screenshots/saasydark.png) 
 
+### Pixa AI
 
+This one has both dark and light theme, feel free to try it out.
+
+[Live preview](https://pixapage.netlify.app/)
+
+![Pixa Landing page](./screenshots/pixa-dark.png) 
 
 
 #tailwind templates #website templates

@@ -5,8 +5,8 @@ Contains free and open-sourced website templates, including but not limited to S
 **Download from browsable page**: https://awesome-landingpages.vercel.app/
 
 
-#### Updated weekly
-New templates will be uploaded every Friday. Feel free to star this repository ðŸŒŸ. 
+#### Updated Regularly
+New templates will be uploaded every month. Feel free to star this repository ðŸŒŸ. 
 
 **Have a generic template in mind?**
 - Create a new [template issue](https://github.com/PaulleDemon/landing-pages/issues/new/choose), once your template request have enough thumbs up, we'll make one. 
@@ -15,9 +15,8 @@ New templates will be uploaded every Friday. Feel free to star this repository ð
 
 ## Table of content
 
-
+- [Font Tester extension.](#font-tester-extension)
 - [Hover preview VsCode extension](#hover-preview-vscode-extension)
-
 - [Features of Landing page templates](#features-of-landing-page-templates)
 - [Whom is this suitable for?](#whom-is-this-suitable-for)
 - [Why use website templates?](#why-use-website-templates)
@@ -35,7 +34,7 @@ New templates will be uploaded every Friday. Feel free to star this repository ð
   - [Real estate landing page](#real-estate-landing-page)
   - [Attorney landing page](#attorney-landing-page)
   - [Portfolio](#portfolio)
-  - [Ngo](#ngo-landing-pages)
+  - [NGO landing pages](#ngo-landing-pages)
   - [Other website templates](#other-website-templates)
 - [Credits](#credits)
   - [Images](#images)
@@ -43,6 +42,10 @@ New templates will be uploaded every Friday. Feel free to star this repository ð
   - [Brand logos from](#brand-logos-from)
 
 
+
+### Font Tester extension.
+If you need help with website typography, try [Font Tester](https://chromewebstore.google.com/detail/font-tester/deachoodakeofjlfikfkohihnpcgiaim) tool I created to help
+you with website fonts. It can help you preview and test 1000+ google fonts on any website :)
 
 ### Hover preview VsCode extension
 It can sometimes be hard to quickly modify templates created by someone else without visual cues, 
@@ -182,7 +185,9 @@ Here's the list of website templates
 
 **3. [AI SaaS](src/saas/SaaS-AI/)** - [[`Live preview`](https://ai-code.netlify.app/)]
 
-**4. [SaaSy Dark](src/saas/SaaSyDark//)** - [[`Live preview`](https://saasy-dark.netlify.app/)]
+**4. [SaaSy Dark](src/saas/SaaSyDark/)** - [[`Live preview`](https://saasy-dark.netlify.app/)]
+
+**5. [Pixa Ai](src/saas/pixaai/)** - [[`Live preview`](https://pixapage.netlify.app/)]
 
 
 ### App landing pages
