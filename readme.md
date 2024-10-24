@@ -10,8 +10,15 @@ New templates will be uploaded every month. Feel free to star this repository ðŸ
 
 **Have a generic template in mind?**
 - Create a new [template issue](https://github.com/PaulleDemon/landing-pages/issues/new/choose), once your template request have enough thumbs up, we'll make one. 
-  
+
+### Looking for a custom landing page?
 - If you are looking for a custom one, contact [here](https://tally.so/r/woO0Kx)
+
+### Consider supporting open-source.
+
+when you support my open-source, I get funds to keep writing more free and open-source projects.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L612WN7K)
 
 ## Table of content
 
