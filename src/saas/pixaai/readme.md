@@ -4,7 +4,6 @@
 * This template uses tailwind css every tailwind class are prefixed with `tw-`, to help differentiate
   between tailwind classes and other classes  
 
-Install node for development. Refer: (docs)[https://github.com/PaulleDemon/awesome-landing-pages?tab=readme-ov-file#folder-structure] for tailwind setup and more.
 
 During development add the following to head tag
 
